@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "0a911b28848753f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e468f0fd517977b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff557ea9381191a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8103dfb071aad1d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b65b943c7484dce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7420ccbfbd289951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "05a0665c5b86c1da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "ef5f50c77b18d65d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55d236afb88f6c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "6facd6cd09099d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1972d11ff0a0d96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "5c05568331ed0ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "b3eafe994caba638",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "e1d6340bf3f14209",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "7420ccbfbd289951",
+  "lastOpenFiles": [
+    "Nuovo Documento di testo.txt",
+    "Senza nome 4.base",
+    "Senza nome.base",
+    "FLAMHAL/Fazioni/zoa.md",
+    "FLAMHAL/Fazioni/Uomini.md",
+    "FLAMHAL/Fazioni/L’ordine Monastico di Theoshin.md",
+    "Senza nome 5.base",
+    "Senza nome 3.base",
+    "Senza nome 2.base",
+    "Senza nome 1.base",
+    "I monaci Fashàk.md",
+    "FLAMHAL/Fazioni/Gilda degli esploratori.md",
+    "FLAMHAL/INTRO/Flamhal.md",
+    "immagini/Senza nome.canvas",
+    "FLAMHAL/INTRO",
+    "FLAMHAL/INTRO/Intro ambientazione.md",
+    "Leebertun.md",
+    "Paritari.md",
+    "I certificati di integrazione.md",
+    "FLAMHAL/Storia/Zoa e uomini fratelli e schiavi..md",
+    "FLAMHAL/Geografia e cosmologia/foreste di rovi.md",
+    "FLAMHAL/Geografia e cosmologia/Il calendario.md",
+    "().md",
+    "FLAMHAL/Geografia e cosmologia/Geografia del continente.md",
+    "FLAMHAL/Geografia e cosmologia/Sirfe.md",
+    "FLAMHAL/Geografia e cosmologia/la Vampa.md",
+    "FLAMHAL/Invenzioni e tecnologie/macchine.md",
+    "antenati.md",
+    "FLAMHAL/Flora e Fauna/l'Indigo.md",
+    "Template/Template mappa.md",
+    "maestro Pyrhail.md",
+    "FLAMHAL/Invenzioni e tecnologie/flamma.md",
+    "FLAMHAL/Invenzioni e tecnologie/Arche.md",
+    "FLAMHAL/Flora e Fauna/diàbhal.md",
+    "immagini/Pasted image 20250622130053.png",
+    "Senza nome.canvas",
+    "immagini/Pasted image 20250621200141.png",
+    "Pasted image 20250621193929.png",
+    "immagini/Pasted image 20250621194057.png",
+    "immagini/Pasted image 20250621195954.png",
+    "immagini/Mappa FLAMHAL seppia.png",
+    "Mappa FLAMHAL seppia 1.png",
+    "Template",
+    "Template",
+    "immagini/Pasted image 20250621154652.png",
+    "immagini/Pasted image 20250621154551.png",
+    "immagini/903544dabc3320358e8d4fa4677f5c39.jpg",
+    "immagini"
+  ]
+}
